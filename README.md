@@ -1,3 +1,5 @@
-# Firewall Fortress
+# Firewall Rule Academy
 
-Large guided firewall training simulation. It is dependency-free and GitHub Pages compatible. Open `index.html` or upload the complete folder.
+Large but beginner-friendly firewall rule-writing lab. Students learn source, destination, protocol, port and action, then complete twelve guided rule levels with immediate packet tests.
+
+Open `index.html` directly or upload the complete folder to GitHub Pages. The live lab uses `basic-style.css` and `basic-script.js`.
